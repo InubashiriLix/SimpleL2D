@@ -217,5 +217,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 该项目使用 MIT 许可证。详情请参阅 LICENSE 文件。
 
 ---
-
-This README provides both English and Chinese versions to accommodate different audiences. If you need further modifications or additional sections, feel free to ask!
